@@ -4,15 +4,13 @@
   "lives": [
     {
       "group": "直播",
-      "name": "IPTV-API 直播 (m3u·含台标/EPG)",
-      "logo": "https://lightconer.github.io/iptv-api/logo.png",
-      "url": "https://lightconer.github.io/iptv-api/result.m3u"
+      "name": "我的直播源 (m3u)",
+      "url": "https://2905273808qq-hue.github.io/-api/output/result.m3u"
     },
     {
       "group": "直播",
-      "name": "IPTV-API 直播 (txt)",
-      "logo": "https://lightconer.github.io/iptv-api/logo.png",
-      "url": "https://lightconer.github.io/iptv-api/result.txt"
+      "name": "我的直播源 (txt)",
+      "url": "https://2905273808qq-hue.github.io/-api/output/result.txt"
     }
   ],
   "parses": [],
